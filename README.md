@@ -23,9 +23,9 @@ Credit risk analysis (finance risk analysis, loan default risk analysis) and cre
 
 Credit loans and finances have risk of being defaulted or delinquent. To understand risk levels of credit users, credit providers normally collect vast amount of information on borrowers. Statistical predictive analytic techniques can be used to analyze or to determine risk levels involved on credits, finances, and loans, i.e., default risk levels. 
 
-Personal credit scores are normally computed from information available in credit reports collected by external credit bureaus and ratings agencies. Credit scores may indicate personal financial history and current situation. However, it does not tell you exactly what constitutes a "good" score from a "bad" score. More specifically, it does not tell you the level of risk for the lending you may be considering
+Personal credit scores are normally computed from information available in credit reports collected by external credit bureaus and ratings agencies. Credit scores may indicate personal financial history and current situation. However, it does not tell you exactly what constitutes a "good" score from a "bad" score. More specifically, it does not tell you the level of risk for the lending you may be considering.
 
-We will go through various tasks like data wrangling,fitting various models to the data and analyzing results using various metrics.We will dive more into Logistic Regression model
+We will go through various tasks like data wrangling,fitting various models to the data and analyzing results using various metrics.We will dive more into Logistic Regression model.
 
 
 
