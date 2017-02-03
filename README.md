@@ -1,4 +1,4 @@
-# Data-Science
+# Data Science
 Customer Churn Prediction - Binary Classification
 Description:
 As we know,Churn prediction is one of the most popular Big Data use cases in business. It consists of detecting customers who are likely to cancel a subscription to a service.There are a number of things you can do to improve customer retention overall. But individualized customer retention is difficult because businesses usually have a lot of customers and cannot afford to spend much time on one. The costs would be too high and would outweigh the extra revenue. 
