@@ -1,6 +1,6 @@
 # Data Science
 ##Customer Churn Prediction - Binary Classification
-###objective: 
+###Objective: 
 To build a machine learning model that can predictly how likely a customer unsubscribes or leaves a service.
 ###Required Software:
 Anaconda distribution for python with the libraries (scikit-learn,pandas,matplotlib etc.) installed
@@ -14,7 +14,7 @@ Here,we build a model(s),which predicts how likely a customer cancels the subscr
 We will go through various tasks like data wrangling,fitting various models to the data and analyzing results using various metrics.
 
 ##LOAN DEFAULTERS-CREDIT RISK
-###objective:
+###Objective:
 build a machine learning model that can accurately predict if a borrower will pay off their loan on time or not.
 ###Required Software:
 Anaconda distribution for python with the libraries (scikit-learn,pandas,matplotlib etc.) installed.
