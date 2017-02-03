@@ -1,7 +1,7 @@
 # Data Science
 ##Customer Churn Prediction - Binary Classification
 ###objective: 
-To build a machine learning model that can predictly how likely a customer unsubscribes or leaves a service
+To build a machine learning model that can predictly how likely a customer unsubscribes or leaves a service.
 ###Required Software:
 Anaconda distribution for python with the libraries (scikit-learn,pandas,matplotlib etc.) installed
 ###Description:
@@ -15,9 +15,9 @@ We will go through various tasks like data wrangling,fitting various models to t
 
 ##LOAN DEFAULTERS-CREDIT RISK
 ###objective:
-build a machine learning model that can accurately predict if a borrower will pay off their loan on time or not
+build a machine learning model that can accurately predict if a borrower will pay off their loan on time or not.
 ###Required Software:
-Anaconda distribution for python with the libraries (scikit-learn,pandas,matplotlib etc.) installed
+Anaconda distribution for python with the libraries (scikit-learn,pandas,matplotlib etc.) installed.
 ###Description:
 Credit risk analysis (finance risk analysis, loan default risk analysis) and credit risk management is important to financial institutions which provide loans to businesses and individuals. Credit can occur for various reasons: bank mortgages (or home loans), motor vehicle purchase finances, credit card purchases, installment purchases, and so on. 
 
